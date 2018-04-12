@@ -1,0 +1,13 @@
+{ 
+
+    "name": "VanArsdel", 
+
+    "dataColors":["#00b8aa","#3c9fff","#7B68EE","#67d8e5","#ff5a00","#000000", "#fff200","#0099ff","#f42d42"],
+
+    "background":"#FFFFFF",
+
+    "foreground": "#faf8f0",
+
+    "tableAccent": "#41404c"
+
+}

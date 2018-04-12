@@ -1,0 +1,7 @@
+YTD Revenue = TOTALYTD(SUM(Sales[Revenue]),'Date'[Date])
+
+LY YTD Revenue = CALCULATE([YTD Revenue],SAMEPERIODLASTYEAR('Date'[Date]))
+
+YTD Sales Var = [YTD Revenue] - [LY YTD Revenue]
+
+YTD Sales VAR % = DIVIDE([YTD Sales Var], [LY YTD Revenue]) 

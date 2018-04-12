@@ -1,0 +1,3 @@
+US_sales_small takes 10% smpling from US_Sales
+AU_sales_small takes 20% sampling from AU_sales
+JP_sales_small takes 33% sampling from JP_sales
