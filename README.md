@@ -25,3 +25,9 @@ The company, VanArsdel, manufactures expensive electronic products that could be
 
 
 
+## Hands-on Exercises
+### Power BI Desktop - Importing Data (10 mins)
+### Power BI Desktop - Transforming your Data (16 mins)
+### Power BI Desktop - Interactive Data Exploration (45 mins)
+### Power BI Desktop - Report Authoring (40 mins)
+### Power BI Service - Dashboard and sharing (30 mins)
