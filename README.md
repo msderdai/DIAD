@@ -1,3 +1,4 @@
+
 # DIAD
 Power BI Project--Dashboard in a Day
 
@@ -6,6 +7,8 @@ Power BI Project--Dashboard in a Day
 https://powerbi.microsoft.com/en-us/desktop/ </br>
 2, Make sure you have the PowerBI service account </br>
 3, Download the files here and copy alll files under your local C drive (C:\DIAD\...) </br>
+4, <Optional> Consult your company IT before you download and install this gateway.
+https://powerbi.microsoft.com/en-us/gateway/
 
 ## File structure, (Under C:\DIAD\) </br>
 1, Calc: DAX calculation </br>
