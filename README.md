@@ -44,9 +44,9 @@ You have probably heard about how Microsoft’s Power BI service can help bring 
 
 
 
-## Hands-on Exercises
-Power BI Desktop - Importing Data (10 mins)
-Power BI Desktop - Transforming your Data (16 mins)
-Power BI Desktop - Interactive Data Exploration (35 mins)
-Power BI Desktop - Report Authoring (40 mins)
-Power BI Service - Dashboard and sharing (30 mins)
+## Hands-on Exercises</br>
+Power BI Desktop - Importing Data (10 mins)</br>
+Power BI Desktop - Transforming your Data (16 mins)</br>
+Power BI Desktop - Interactive Data Exploration (35 mins)</br>
+Power BI Desktop - Report Authoring (40 mins)</br>
+Power BI Service - Dashboard and sharing (30 mins)</br>
