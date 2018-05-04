@@ -31,19 +31,19 @@ You have probably heard about how Microsoft’s Power BI service can help bring 
 
 ## Course Outline
  
-### 1.	Introduction – We’ll start with an introduction on why we’re here, what is Power BI, what can we do with it, and make sure everyone is setup. Then we’ll go into the desktop and web portal to give an introduction to navigating around the menus and how to get started with a visualization!
-### 2.	Data Ingestion – We’ll start at the beginning, by using the Power BI Desktop Query Editor to ingest data from various data sources.  Power BI supports over 60 native data connectors!  We won’t use them all, but we’ll start the day by showing how we can ingest data from multiple disparate sources and combine them into a single data model. 
-### 3.	Data Shaping and Modelling – After the data is ingested, we show how to use the Query Editor to perform data transformations (called “shaping”) on the data.  Once loaded into the data model, additional calculations can be added, and the attribute names, relationships and structure of the model can be optimized for ease of use.
-### 4.	Report Design and Creation – In this section use Power BI Desktop to create visualizations and reports based on our data model.  Power BI natively supports 30+ chart types, and Power BI also has a gallery of 60+ more custom visualizations created by the Power BI developer community.  We’ll show how to configure and format visualizations and how to get your visualizations to interact with each other for deeper analytic insights.
-### 5.	Publishing Reports and Creating Dashboards – Once the Report is created, it is time to publish our content to the Power BI service.  Power BI is a SaaS model, so reports can be published and viewed by members of your organization.  We will create Dashboards from our Report, and show how Power BI’s Q&A functionality allows user to ask natural language questions of their data.  We will also show how to schedule data refreshes and integration with Microsoft’s personal digital assistant Cortana.
-### 6.	Sharing and Collaboration – The real power of Power BI is being able to share the data, reports, and insights you have gained with others in your organization.  In this section, we’ll talk about the various ways to share your content and how security is configured to allow only authorized users to see the data they are authorized to see.
-### 7.	Bonus: Advanced Analytics and Use your own data: In this section, we’ll show how to embed advanced analytics into your Power BI dashboards.  Power BI supports running R scripts for analytics and creating visualizations.  If you brought your own data to explore, we will also use this time to explore how you can use Power BI with your own dataset to gain actionable insights.  
+1.	Introduction – We’ll start with an introduction on why we’re here, what is Power BI, what can we do with it, and make sure everyone is setup. Then we’ll go into the desktop and web portal to give an introduction to navigating around the menus and how to get started with a visualization!
+2.	Data Ingestion – We’ll start at the beginning, by using the Power BI Desktop Query Editor to ingest data from various data sources.  Power BI supports over 60 native data connectors!  We won’t use them all, but we’ll start the day by showing how we can ingest data from multiple disparate sources and combine them into a single data model. 
+3.	Data Shaping and Modelling – After the data is ingested, we show how to use the Query Editor to perform data transformations (called “shaping”) on the data.  Once loaded into the data model, additional calculations can be added, and the attribute names, relationships and structure of the model can be optimized for ease of use.
+4.	Report Design and Creation – In this section use Power BI Desktop to create visualizations and reports based on our data model.  Power BI natively supports 30+ chart types, and Power BI also has a gallery of 60+ more custom visualizations created by the Power BI developer community.  We’ll show how to configure and format visualizations and how to get your visualizations to interact with each other for deeper analytic insights.
+5.	Publishing Reports and Creating Dashboards – Once the Report is created, it is time to publish our content to the Power BI service.  Power BI is a SaaS model, so reports can be published and viewed by members of your organization.  We will create Dashboards from our Report, and show how Power BI’s Q&A functionality allows user to ask natural language questions of their data.  We will also show how to schedule data refreshes and integration with Microsoft’s personal digital assistant Cortana.
+6.	Sharing and Collaboration – The real power of Power BI is being able to share the data, reports, and insights you have gained with others in your organization.  In this section, we’ll talk about the various ways to share your content and how security is configured to allow only authorized users to see the data they are authorized to see.
+7.	Bonus: Advanced Analytics and Use your own data: In this section, we’ll show how to embed advanced analytics into your Power BI dashboards.  Power BI supports running R scripts for analytics and creating visualizations.  If you brought your own data to explore, we will also use this time to explore how you can use Power BI with your own dataset to gain actionable insights.  
 
 
 
 ## Hands-on Exercises
-### Power BI Desktop - Importing Data (10 mins)
-### Power BI Desktop - Transforming your Data (16 mins)
-### Power BI Desktop - Interactive Data Exploration (35 mins)
-### Power BI Desktop - Report Authoring (40 mins)
-### Power BI Service - Dashboard and sharing (30 mins)
+Power BI Desktop - Importing Data (10 mins)
+Power BI Desktop - Transforming your Data (16 mins)
+Power BI Desktop - Interactive Data Exploration (35 mins)
+Power BI Desktop - Report Authoring (40 mins)
+Power BI Service - Dashboard and sharing (30 mins)
