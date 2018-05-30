@@ -41,7 +41,7 @@ You have probably heard about how Microsoft’s Power BI service can help bring 
 5.	Publishing Reports and Creating Dashboards – Once the Report is created, it is time to publish our content to the Power BI service.  Power BI is a SaaS model, so reports can be published and viewed by members of your organization.  We will create Dashboards from our Report, and show how Power BI’s Q&A functionality allows user to ask natural language questions of their data.  We will also show how to schedule data refreshes and integration with Microsoft’s personal digital assistant Cortana.
 6.	Sharing and Collaboration – The real power of Power BI is being able to share the data, reports, and insights you have gained with others in your organization.  In this section, we’ll talk about the various ways to share your content and how security is configured to allow only authorized users to see the data they are authorized to see.
 7.	Bonus: Advanced Analytics and Use your own data: In this section, we’ll show how to embed advanced analytics into your Power BI dashboards.  Power BI supports running R scripts for analytics and creating visualizations.  If you brought your own data to explore, we will also use this time to explore how you can use Power BI with your own dataset to gain actionable insights.  
-8. Governance and Administration in Power BI
+8. Governance and Administration in Power BI (For IT/Tech only)
 
 
 ## Hands-on Exercises</br>
